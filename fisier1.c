@@ -1,7 +1,7 @@
 void main (void)
 {
 
-int x; /* comment */
+int x; /* comment din main */
 
 
 }
