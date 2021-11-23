@@ -1,4 +1,4 @@
-int fisier2(void)
+int fisier2(void)   xx
 {
 int x;
 
