@@ -1,4 +1,4 @@
-int fisier2(void)   xx
+int fisier2(void)   /* comment */
 {
 int x;
 
