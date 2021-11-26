@@ -1,5 +1,5 @@
-int fisier2(void)   /* comentariu main */ /* prima modificare branch 2*/
+int fisier2(void)   /* comentariu main */ 
 {
-int x;
-
+int x; 
+/* C5B2_reset_mixed commit */
 }
